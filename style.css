@@ -8,6 +8,7 @@
     overflow: hidden;
     transition: box-shadow 0.3s;
     margin: auto;
+    border:0.5px solid black;
   }
   
   .card:hover {
@@ -22,4 +23,5 @@
 
   .card-name {
     padding: 5px;
+    text-align: center;
   }
