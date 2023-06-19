@@ -146,6 +146,7 @@
   
   .social-links {
     display: flex;
+    
   }
   
   .social-links a {
@@ -154,8 +155,9 @@
   }
   
   .social-links img {
-    width: 24px;
-    height: 24px;
+    width: 40px;
+    height: 40px;
+    
   }
 
   .card-row {
