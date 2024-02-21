@@ -49,3 +49,18 @@ li {
 li li {
     margin-bottom: 0;
 }
+
+#Assignment2 {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: left;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+    padding: 10px 15px;
+    background-color: #e5eaeb;
+    border-radius: 5px;
+}
