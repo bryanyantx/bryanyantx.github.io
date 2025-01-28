@@ -1,0 +1,32 @@
+body {
+    margin:auto;
+    padding:auto;
+    background-color:antiquewhite;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 18px;
+}
+.paragraph {
+    color: red;
+}
+.link {
+    color: blue;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.list1 {
+    color:rgb(47, 216, 70);
+}
+.list2 {
+    color:rgb(189, 119, 15);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.table {
+    color:rgb(24, 154, 110);
+}
+.images img{
+    width: 30%;
+    height: 50%;
+}
